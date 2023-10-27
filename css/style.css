@@ -1064,7 +1064,7 @@ display: none;
 
 
 /* animation */
-.blink {
+/* .blink {
     animation-name: blink;
     animation-duration: 1.5s;
     animation-fill-mode: forwards;
@@ -1110,7 +1110,7 @@ display: none;
     100% {
         opacity: 0.1;
     }
-  }
+  } */
   
   /* Clients Section
   --------------------------------*/
