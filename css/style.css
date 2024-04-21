@@ -239,7 +239,7 @@ button.active.focus, button.active:focus, button.focus, button:active.focus, but
     color: #fff;
     position: relative;
     top: 40px;
-    padding: 12px 60px;
+    padding: 12px 50px;
     border-radius: 50px;
     font-size: 18px;
     font-weight: 400;
