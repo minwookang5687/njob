@@ -6,8 +6,14 @@ menu.innerHTML = `
       <img id ="logo_img" src="img/favicon.png" onclick="window.location.href='./index.html'">
       <p class="logo-font" id="lgt" style="" onclick="window.location.href='./index.html'">한국교육개발센터</p>
       <!-- <img alt="" src="img/logo_img.png" > -->
+     <!-- <a href="#sec05" class="scroll box" style="margin-top:23px;">
+                    
+      <span class="timer" style="color:#000;font-weight:700;">
+          혜택 마감 | <span id="day" style="font-weight:700;"></span> [ <span id="countdown"><span id="time">15:00.00</span> </span> ]
+          </span>
+        </a> -->
+    </a> 
     
-    </a>
     <div class="menu-btn">
         <!-- <button class="Event_Menu">Event</button> -->
        <button class="total_menu"><img src="img/hamburger.svg" style="width:17px"></button>
