@@ -27,8 +27,8 @@ form.innerHTML = `
                                         <option value="손해평가사">손해평가사</option>
                                         <option value="도로교통사고감정사">도로교통사고감정사</option>
                                         <option value="농산물품질관리사">농산물품질관리사</option>
-                                        <option value="PIA사설탐정">PIA사설탐정</option>
                                         <option value="반려견스타일리스트">반려견스타일리스트</option>
+                                        <option value="결혼상담사">결혼상담사</option>
                                         <option value="맞춤형화장품제조관리사">화장품제조관리사 (서울, 수도권 거주자 한정)</option>
                                       
                                 </select>
@@ -151,11 +151,11 @@ form.innerHTML = `
 <div style="display:none;">
 <form accept-charset="euc-kr"  checkform action="https://marketclub.cafe24.com/pr_test2.php" method="post" name="" onsubmit="document.charset='euc-kr';" target="hidden_iframe12" id="form1">
 <input type="hidden" name="partner_id" value="flosmarketing">
-<INPUT type=hidden name=item_no value="82">
-<input type=hidden name="refe" value="/form_make/form.php?it=82&pt=flosmarketing">
-<input type="hidden" name="sub_url" id="url" value="https://marketclub.cafe24.com/form_make/form.php?it=82&pt=flosmarketing">
+<INPUT type=hidden name=item_no value="68">
+<input type=hidden name="refe" value="/form_make/form.php?it=68&pt=flosmarketing">
+<input type="hidden" name="sub_url" id="url" value="https://marketclub.cafe24.com/form_make/form.php?it=68&pt=flosmarketing">
 <input type=hidden name="refer_url" value="">
-<input type="hidden" name="user_agent" id="user_agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36">
+<input type="hidden" name="user_agent" id="user_agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36">
     
 <div class="detfm2" style="padding:20px;">
 
